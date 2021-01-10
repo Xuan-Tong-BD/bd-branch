@@ -1,0 +1,348 @@
+[
+    {
+       
+        "name": "Reusable Bacteria Filter",
+        "partNumber":"800-51500",
+        "image": "./assets/img/product/800-51500.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+        
+    },
+    {
+        "name": "Disposable Bacteria Filter",
+        "partNumber":"800-51600",
+        "image": "./assets/img/product/800-51600.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Disposable Filter",
+        "partNumber":"800-51700",
+        "image": "./assets/img/product/800-51700.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Disposable Filter",
+        "partNumber":"800-51700-0",
+        "image": "./assets/img/product/800-51700-0.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Disposable Filter with sampling port",
+        "partNumber":"800-51900",
+        "image": "./assets/img/product/800-51900.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Disposable Filter",
+        "partNumber":"800-51900-0",
+        "image": "./assets/img/product/800-51900-0.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Reusable Filte",
+        "partNumber":"880-51900-11",
+        "image": "./assets/img/product/880-51900-11.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Reusable Filter",
+        "partNumber":"800-51900-12",
+        "image": "./assets/img/product/800-51900-12.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Disposable HME (Adult)",
+        "partNumber":"800-52000",
+        "image": "./assets/img/product/800-52000.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Disposable Tracheal HME with ",
+        "partNumber":"800-52300",
+        "image": "./assets/img/product/800-52300.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Disposable HME Filter (Adult)",
+        "partNumber":"800-51800",
+        "image": "./assets/img/product/800-51800.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Disposable HME Filter (Child)",
+        "partNumber":"800-52800",
+        "image": "./assets/img/product/800-52800.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Disposable HME Filter (Infant)",
+        "partNumber":"800-53822",
+        "image": "./assets/img/product/800-53822.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "Reusable Expiratory Filter",
+        "partNumber":"880-54011",
+        "image": "./assets/img/product/880-54011.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-hmebf"
+    },
+    {
+        "name": "800-VH3000 Respiratory Humidifer",
+        "partNumber":"800-VH3000-220",
+        "image": "./assets/img/product/800-VH3000-220.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "VH-1500 Respiratory Humidifer",
+        "partNumber":"800-VH1500-220",
+        "image": "./assets/img/product/800-VH1500-220.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Disposable Auto-Feeding Chamber",
+        "partNumber":"G-314001",
+        "image": "./assets/img/product/G-314001.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Disposable Neonatal Humidification Chamber",
+        "partNumber":"G-314001-0",
+        "image": "./assets/img/product/G-314001-0.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Disposable Adult Humidification Chamber",
+        "partNumber":"G-314003-P",
+        "image": "./assets/img/product/G-314003-P.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Reusable Auto-Feeding Chamber",
+        "partNumber":"G-314002",
+        "image": "./assets/img/product/G-314002.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Reusable Neonatal Humidification Chamber With Scroll",
+        "partNumber":"G-314005",
+        "image": "./assets/img/product/G-314005.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Reusable Adult Humidification Chamber",
+        "partNumber":"G-314003",
+        "image": "./assets/img/product/G-314003.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Reusable Adult Humidification Chamber with Scroll",
+        "partNumber":"G-314004",
+        "image": "./assets/img/product/G-314004.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Reusable Heater Wire (Length: 45cm)",
+        "partNumber":"900045",
+        "image": "./assets/img/product/900045.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Reusable heater wire with temperature port (Length: 110cm)",
+        "partNumber":"900110L",
+        "image": "./assets/img/product/900110L.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Reusable heater wire with temperature port (Length: 130cm)",
+        "partNumber":"900130L",
+        "image": "./assets/img/product/900130L.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Reusable heater wire with temperature port(Length: 150cm)",
+        "partNumber":"900150L",
+        "image": "./assets/img/product/900150L.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Absortbent Paper for Reusable Adult Humidificaion Chamber",
+        "partNumber":"E-4011-07-2",
+        "image": "./assets/img/product/E-4011-07-2.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Absortbent Paper for Reusable Infant Humidificaion Chamber",
+        "partNumber":"E-4011-07-3",
+        "image": "./assets/img/product/E-4011-07-3.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Single Plug - Power Adapter (Quick Pull-out)",
+        "partNumber":"VH30100",
+        "image": "./assets/img/product/VH30100.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Single Plug - Power Adaptor",
+        "partNumber":"VH30100L",
+        "image": "./assets/img/product/VH30100L.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Expiratory Filter Heater ",
+        "partNumber":"VH30101",
+        "image": "./assets/img/product/VH30101.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Double Plug - Power Adapter",
+        "partNumber":"VH30200",
+        "image": "./assets/img/product/VH30200.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Dou Plug- Power Adaptor",
+        "partNumber":"VH30200L",
+        "image": "./assets/img/product/VH30200L.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "3P/2P Adapter",
+        "partNumber":"VH30C-1",
+        "image": "./assets/img/product/VH30C-1.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Draw Wire",
+        "partNumber":"VH30T160",
+        "image": "./assets/img/product/VH30T160.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Temperature Probe",
+        "partNumber":"VH30T150",
+        "image": "./assets/img/product/VH30T150.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Reusable Heater Wire without Temperature Port",
+        "partNumber":"900110LE",
+        "image": "./assets/img/product/900110LE.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-rhf"
+    },
+    {
+        "name": "Expiratoey Filter Heater",
+        "partNumber":"800-21101",
+        "image": "./assets/img/product/800-21101.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-exfh"
+    },
+    {
+        "name": "Expiratory Filter Heater ",
+        "partNumber":"800-22202",
+        "image": "./assets/img/product/800-22202.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-exfh"
+    },
+    {
+        "name": "Expiratory Filter Heater ",
+        "partNumber":"800-VH330",
+        "image": "./assets/img/product/800-VH330.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-exfh"
+    },
+    {
+        "name": "Expiratory Filter Heater ",
+        "partNumber":"800-VH130",
+        "image": "./assets/img/product/800-VH130.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-exfh"
+    },
+    {
+        "name": "Expiratory Filter Heater ",
+        "partNumber":"VH30101",
+        "image": "./assets/img/product/VH30101.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"filter-exfh"
+    }
+]
