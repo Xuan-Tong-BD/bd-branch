@@ -67,13 +67,16 @@
         var part = value.partNumber;
         var category = value.filterCategory;
         console.log(category);
-        $('#productSection').append('<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 product-item '+category+'"><div class="product-wrap"><img src="'+image+'" class="img-fluid" alt=""><div class="product-info"><h4>'+name+'</h4><p>'+part+'</p><div class="product-links"><a href="" title="More Details" class="text-right"><i class="bx bx-link"></i></a></div></div><p style="color:white;height:40px;padding:5px" class="text-center">'+name+'</p></div></div>'); 
+        $('#productSection').append('<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 product-item '+category+'"><div class="product-wrap"><img src="'+image+'" class="img-fluid" alt=""><div class="product-info"><h4><a style="cursor: pointer">'+name+'</a></h4><p>'+part+'</p><div class="product-links"><a href="" title="More Details"><!--<i class="bx bx-plus"></i>--></a></div></div><p style="color:white;height:40px;padding:5px" class="text-center">'+name+'</p></div></div>'); 
       
        });  
     }); 
 
   });
-
+  function productDetails(name) {
+    console.log("onclick");
+    console.log(name);
+  }
   // Mobile Navigation
   if ($('.nav-menu').length) {
     var $mobile_nav = $('.nav-menu').clone().prop({
