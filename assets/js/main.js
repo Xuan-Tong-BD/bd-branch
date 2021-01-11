@@ -66,17 +66,33 @@
         }
         var part = value.partNumber;
         var category = value.filterCategory;
+        var specification = value.specification;
+        var feature = value.feature;
+        var productObject = value;
         console.log(category);
-        $('#productSection').append('<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 product-item '+category+'"><div class="product-wrap"><img src="'+image+'" class="img-fluid" alt=""><div class="product-info"><h4><a style="cursor: pointer">'+name+'</a></h4><p>'+part+'</p><div class="product-links"><a href="" title="More Details"><!--<i class="bx bx-plus"></i>--></a></div></div><p style="color:white;height:40px;padding:5px" class="text-center">'+name+'</p></div></div>'); 
+        $('#productSection').append('<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 product-item '+category+'"><div class="product-wrap"><img src="'+image+'" class="img-fluid" alt=""><div class="product-info"><h4><a style="cursor: pointer">'+name+'</a></h4><p>'+part+'</p><div class="product-links"><a href="" title="More Details"><i class="bx bx-plus" data-toggle="modal" data-target="#productDetailsModal" id="pDetails" data-set="'+productObject+'" data-name="'+name+'" data-part="'+part+'" data-specification="'+specification+'" data-feature="'+feature+'" data-image="'+image+'"></i></a></div></div><p style="color:white;height:40px;padding:5px" class="text-center">'+name+'</p></div></div>'); 
       
        });  
     }); 
 
   });
-  function productDetails(name) {
-    console.log("onclick");
-    console.log(name);
-  }
+  
+  $(document).on('click', '#pDetails', function(e) {
+    e.preventDefault();
+    // alert("Your values are :"+ $(this).data("value"));        
+     
+    var name = $(this).data("name");  
+    var part = $(this).data("part");  
+    var image = $(this).data("image");  
+    var specification = $(this).data("specification");  
+    var feature = $(this).data("feature");  
+   
+    $('#pImage').empty();
+    $('#pImage').append('<img src="'+image+'" class="img-fluid" alt="">');
+    $('#productDetails').empty();
+    $('#productDetails').append('<p><b>Name: </b> '+name+'</p><p><b>Part NUmber: </b> '+part+'</p><p><b>Specification: </b></p><p>'+specification+'</p><p><b>Feature: </b></p><p>'+feature+'</p>');
+   
+  });
   // Mobile Navigation
   if ($('.nav-menu').length) {
     var $mobile_nav = $('.nav-menu').clone().prop({

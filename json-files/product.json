@@ -4,8 +4,8 @@
         "name": "Reusable Bacteria Filter",
         "partNumber":"800-51500",
         "image": "./assets/img/product/800-51500.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a high efficient reusable filter. It is used for filtrating microbe and particles in expiratory port of ventilator in order protect patients and medical practioner from infection.",
+        "specification": "Material: Polysulfone<br/>Type: Machanical<br/>Capacity: Approx. 442 ml<br/>VFE: 99.999%<br/>BFE: 99.999%<br/> Package: 20 PCS/ BOX<br/>",
         "filterCategory":"filter-hmebf"
         
     },
@@ -13,280 +13,280 @@
         "name": "Disposable Bacteria Filter",
         "partNumber":"800-51600",
         "image": "./assets/img/product/800-51600.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The filter is a high efficient disposable filter . It is used for filtering the particle and microbe from patient's exhalation gas. So, it can prevent patients and caregivers from cross-infection.The device has been tested by Nelson laboratories in USA. The test MPS is 3.0 μm, BFE is 99.999 %, VFE is 99.999%. ",
+        "specification": "Material: HIPS<br/>Connector Size: 22mm OD/ 22mm OD<br/>Type: Machanical<br/>Capacity: 368 ml<br/>VFE: 99.999%<br/>BFE: 99.999%<br/>Package: 20 PCS/ BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Disposable Filter",
         "partNumber":"800-51700",
         "image": "./assets/img/product/800-51700.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The filter is a device intended to remove microbiological and particulate matter from the gas in the breathing circuit. It uses electrostic filter media to absorb the aforementioned things when the gas goes through the filter.The device has been tested by Nelson laboratories in USA. The test MPS is 3.0 μm, BFE is 99.999 %, VFE is 99.99%.",
+        "specification": "Material: PP<br/>Connector Size: 22mm ID/ 15mm OD,22mm OD/ 15mm ID<br/>Type: Electrostatics<br/>Capacity: 50.5 ml<br/>VFE: 99.999%<br/>BFE: 99.999%<br/>Package: 50 PCS/ BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Disposable Filter",
         "partNumber":"800-51700-0",
         "image": "./assets/img/product/800-51700-0.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The filter is a device intended to remove microbiological and particulate matter from the gas in the breathing circuit. It uses the electrostic filter media to absorb the aforementioned things when the gas goes through the filter.",
+        "specification": "Material: PP<br/>Connector Size: 22mm ID/ 15mm OD, 22mm OD/ 15mm ID<br/>Type: Electrostatics<br/>Capacity: 50.5 ml<br/>VFE: 99.999%<br/>BFE: 99.999%<br/>Package: 50 PCS/ BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Disposable Filter with sampling port",
         "partNumber":"800-51900",
         "image": "./assets/img/product/800-51900.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The filter is a device intended to remove microbiological and particulate matter from the gas in the breathing circuit. It uses dense filter media to trap the aforementioned things when the gas goes through the filter.The device has been tested by Nelson laboratories in USA. The test MPS is 3.0 μm, BFE is 99.999 %, VFE is 99.9999%.<br/>The product has a sampling port for anesthesia gas analysis.",
+        "specification": "Material: PP<br/>Connector Size: 22mm ID, 22mm OD/ 15mm ID<br/>Type: Machanical<br/>Capacity: 116 ml<br/>VFE: 99.999%<br/>BFE: 99.999%<br/>Package: 40 PCS/ BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Disposable Filter",
         "partNumber":"800-51900-0",
         "image": "./assets/img/product/800-51900-0.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The filter is a device intended to remove microbiological and particulate matter from the gas in the breathing circuit. It uses dense filter media to trap the aforementioned things when the gas goes through the filter.",
+        "specification": "Material: PP<br/>Connector Size: 22mm ID, 22mm OD/ 15mm ID<br/>Type: Machanical<br/>Capacity: 116 ml<br/>VFE: 99.999%<br/> BFE: 99.999%<br/>Package: 40 PCS/ BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Reusable Filte",
         "partNumber":"880-51900-11",
         "image": "./assets/img/product/880-51900-11.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The reusable filter is a device  can be autoclaved 10 times , intended to remove microbiological and particulate matter from the gas in the breathing circuit. It uses dense filter media to trap the aforementioned things when the gas goes through the filter.This product has been certified by the Nielsen Laboratories of the United States in accordance with ASTM F 2101 to have a Bacterial Filtration Rate (BFE) of 99.99% and a Virus Filtration Rate (VFE) of 99.99%. The average particle size tested is 3.0 microns. <br/>The product has a sampling port for anesthesia gas analysis.",
+        "specification": "Material: Ploysulfone<br/>Connector Size: 22mm ID, 22mm OD/ 15mm ID<br/>Type: Machanical<br/>Capacity: 116 ml<br/>VFE: 99.999%<br/>BFE: 99.99%<br/>Package: 100 PCS/ BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Reusable Filter",
         "partNumber":"800-51900-12",
         "image": "./assets/img/product/800-51900-12.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The reusable filter is a device  can be autoclaved 10 times , intended to remove microbiological and particulate matter from the gas in the breathing circuit. It uses dense filter media to trap the aforementioned things when the gas goes through the filter.This product has been certified by the Nielsen Laboratories of the United States in accordance with ASTM F 2101 to have a Bacterial Filtration Rate (BFE) of 99.99% and a Virus Filtration Rate (VFE) of 99.99%. The average particle size tested is 3.0 microns. ",
+        "specification": "Type: Reusable, w/o sample prot, Machanical<br/>Connector Size: 22mm ID, 22mm OD/ 15mm ID<br/>Capacity: 116 ml<br/>VFE: 99.99%<br/>BFE: 99.99%<br/>Package: 100 PCS/ BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Disposable HME (Adult)",
         "partNumber":"800-52000",
         "image": "./assets/img/product/800-52000.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a HME (Heat Moisture Exchanger). It can absorb the heat and humidity from patient's exhalation gas for the needs of inhalation temperature and humidity. That is in order to reach basic passive humidification therapy.This product has been tested by the CARDIFF University laboratory to meet the ISO 9360-1 standard,with a minimum humidity loss of 6.1-12 gm.l (standard of 11.0-19.7 gm.l) and a maximum of 5.9-11.5 gm.l (standard of 17.5 -22.7 gm.l). The product is excellent and meets international standards.",
+        "specification": "Material: PP<br/>Connector Size: 22mm ID, 22mm OD/ 15mm ID<br/>Type: Electrostatics<br/>Capacity: 43 ml<br/><br/>Package: 20 PCS/ BAG, 20B/BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Disposable Tracheal HME with ",
         "partNumber":"800-52300",
         "image": "./assets/img/product/800-52300.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is the HME (Heat Moisture Exchanger) for tracheal patient. It can absorb the heat and humidity from patient's exhalation gas for the needs of inhalation temperature and humidity. That is in order to reach basic passive humidification therapy.",
+        "specification": "Material: PP<br/>Diameter: 79mm*2531mm <br/>15mmID +2MOxygen tube",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Disposable HME Filter (Adult)",
         "partNumber":"800-51800",
         "image": "./assets/img/product/800-51800.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a HME (Heat Moisture Exchanger) with filter. It can remove microbiological and particulate matter from the gases in the breathing circuit other than absorb the heat and humidity from patient's exhalation gas for the needs of inhalation temperature and humidity. That is in order to reach basic passive humidification therapy. This product has been certified by the Nielsen Laboratories of the United States in accordance with ASTM F 2101 to have a Bacterial Filtration Rate (BFE) of 99.999% and a Virus Filtration Rate (VFE) of 99.99%. The average particle size tested is 3.0 microns. The product can absorb the heat and water vapor from the patient's exhalation as the temperature and water vapor required by the patient to inhale, so as to achieve the effect of passive humidification therapy. This product has been certified by the CARDIFF University laboratory to meet the ISO 9360-1 standard, with a minimum humidity loss of 5.6-8.5 gm.l (standard of 11.0-19.7 gm.l) and a maximum of 5.0-7.7 gm.l (standard of 17.5 -22.7 gm.l). The product is excellent and meets international standards.<br/>The product has a sampling port for anesthesia gas analysis.",
+        "specification": "Material: PP<br/> Connector Size: 22mm ID / 15mm OD, 22mm OD/ 15mm ID<br/>Type: Electrostatics<br/>Capacity: 61 ml<br/>BFE: 99.999%<br/>VFE: 99.99%<br/>Package: 20 PCS/ BAG, 20B/BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Disposable HME Filter (Child)",
         "partNumber":"800-52800",
         "image": "./assets/img/product/800-52800.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a HME (Heat Moisture Exchanger) with filter. It can remove microbiological and particulate matter from the gases in the breathing circuit other than absorb the heat and humidity from patient's exhalation gas for the needs of inhalation temperature and humidity. That is in order to reach basic passive humidification therapy. <br/>The product has a sampling port for gas analysis.",
+        "specification": "Material: polysulfone<br/>Type: Disposable Child Filter, w/ sample prot, Electrostatics<br/>Connector Size: 15mm OD-22mm ID / 15mm ID-22mm OD<br/>Capacity: Approx. 29 ml<br/>BFE: 99.999%<br/>VFE: 99.999%<br/>Package: 400 PCS/BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Disposable HME Filter (Infant)",
         "partNumber":"800-53822",
         "image": "./assets/img/product/800-53822.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a HME (Heat Moisture Exchanger) with filter. It can remove microbiological and particulate matter from the gases in the breathing circuit other than absorb the heat and humidity from patient's exhalation gas for the needs of inhalation temperature and humidity. That is in order to reach basic passive humidification therapy. <br/>The product has a sampling port for gas analysis.",
+        "specification": "Type: Disposabler, w/ sample prot, Electrostatics<br/>Connector Size: 15mm OD/ 15mm ID-22mm OD<br/>Capacity: Approx. 16 ml<br/>BFE: 99.999%<br/>VFE: 99.999%",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "Reusable Expiratory Filter",
         "partNumber":"880-54011",
         "image": "./assets/img/product/880-54011.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The reusable filter is a device  can be autoclaved 10 times , intended to remove microbiological and particulate matter from the gas in the breathing circuit. It uses dense filter media to trap the aforementioned things when the gas goes through the filter.This product has been certified by the Nielsen Laboratories of the United States in accordance with ASTM F 2101 to have a Bacterial Filtration Rate (BFE) of 99.99% and a Virus Filtration Rate (VFE) of 99.99%. The average particle size tested is 3.0 microns. ",
+        "specification": "Material: Polysulfone<br/>Type: Reusable, w/ water cap,<br/> Connector Size: 22mm OD<br/>Water Cup: Approx. 320 ml<br/>BFE: 99.9999%<br/>VFE: 99.999%<br/>Package: 10 PCS/BOX",
         "filterCategory":"filter-hmebf"
     },
     {
         "name": "800-VH3000 Respiratory Humidifer",
         "partNumber":"800-VH3000-220",
         "image": "./assets/img/product/800-VH3000-220.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is able to control the temperatures of humidification chamber outlet and inhalation other than humidifying respiratory gas. That is not only reducing the humidity loss in breathing circuit during ventilation but also prevent clog because of excessive water condensation. Therefore, this improves the humidification therapy and comfort of patients.",
+        "specification": "<u>Basic Specification :</u><br/>Dimension: 16cm X 14.5 cm X 13.5 cm<br/>Weight: 1.48 kg<br/><u>Performance Specification :</u><br/>Mode: Standby Mode/Heated Wire Mode/Non-heated Wire Mode<br/>Flow: 2~60 LPM<br/>Humidity Output: ≧33 mg/L<br/>Warm-up Time: ≦30 min<br/><u>Electrical Specification :</u><br/>Input Voltage: 200~240 Vac<br/>Frequency: 50/60 Hz<br/>Max Power: 350 VA<br/>Power Supply: 150 W<br/>Heated Wire Max. Power: 120 W<br/>Fuse: T4AL/250Vac<br/><u>Operation Environment :</u><br/>Temperature: 18~26 ℃<br/> Pressure: 700~1060 hpa<br/>Package: 6 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "VH-1500 Respiratory Humidifer",
         "partNumber":"800-VH1500-220",
         "image": "./assets/img/product/800-VH1500-220.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is used for humidifying breathing gas. There are 9 levels for temperature control for heating plate (from 45~75 ℃). That is to manually control the heating to humidification chamber for adjusting breathing gas temperature and humidification in order to let patient gain warm and humid breathing gas.",
+        "specification": "<u>Basic Specification : </u><br/>Dimension: 14.5 cm X 17 cm X 13.5 cm<br/>Weight: 1.1 kg<br/><u>Performance Specification :</u><br/>Mode: Non-heated Wire Mode (9-level heating control/temperature range: 45~75℃)<br/>Flow: 5~40 LPM<br/>Humidity Output: ≧33 mg/L<br/>Warm-up Time: ≦30 min<br/><u>Electrical Specification :</u><br/>Input Voltage: 200~240 Vac<br/>Frequency: 50/60 Hz<br/>Power Supply: 150 W<br/>Fuse: F1A/250Vac<br/><u>Operation Environment :</u><br/>Temperature: 18~26 ℃<br/>Pressure: 700~1060 hpa<br/><br/>Package: 6 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Disposable Auto-Feeding Chamber",
         "partNumber":"G-314001",
         "image": "./assets/img/product/G-314001.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a disposable auto-feeding chamber. It is installed on and heated by respiratory humidifier for viporaizing the water inside itself in order to privide enough humidity to the airway of patient for humidification therapy.</br>In addition,  it can be used with distilled water bag/bottle as water supply. It uses the float inside itself to control the water level. So, that is not only decrease the frequency of water refilling but also medical staff loading. ",
+        "specification": "Material: PC</br>Suitability : Adult / Child / Infant</br>Port Size: 22mm OD / 22mm OD</br>Package: 50-PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Disposable Neonatal Humidification Chamber",
         "partNumber":"G-314001-0",
         "image": "./assets/img/product/G-314001-0.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a reusable chamber. It is installed on and heated by respiratory humidifier for vaporizing the water inside itself in order to provide enough humidity to the airway of patient for humidification therapy.<br/>The device is unable to used auto-feeding mode due to no float.  ",
+        "specification": "Material: PC</br>Suitability : Infant</br>Port Size: 22mm OD / 15mm ID</br>Package: 40-PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Disposable Adult Humidification Chamber",
         "partNumber":"G-314003-P",
         "image": "./assets/img/product/G-314003-P.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a disposable chamber. It is installed on and heated by respiratory humidifier for viporaizing the water inside itself in order to privide enough humidity to the airway of patient for humidification therapy. <br/> The device is unable to used auto-feeding mode due to no float.  ",
+        "specification": "Material: PC<br/>Suitability : Adult<br/>Port Size: 22mm ID/22mm OD<br/>Package: 40PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Reusable Auto-Feeding Chamber",
         "partNumber":"G-314002",
         "image": "./assets/img/product/G-314002.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a reusable chamber. It is installed on and heated by respiratory humidifier for viporaizing the water inside itself in order to privide enough humidity to the airway of patient for humidification therapy.",
+        "specification": "Material: Polysulfone/Aluminum</br>Suitability: Adult/Child/Infant</br>Port Size: 22mm OD/22mm OD</br>Package: 50 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Reusable Neonatal Humidification Chamber With Scroll",
         "partNumber":"G-314005",
         "image": "./assets/img/product/G-314005.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a reusable chamber. It is installed on and heated by respiratory humidifier for viporaizing the water inside itself in order to privide enough humidity to the airway of patient for humidification therapy.<br/>It equipes with the scroll for absorbent paper. That increases the humidity of breathing gas.",
+        "specification": "Material: Polysulfone/Aluminum</br>Suitability: Infant</br>Port Size: 15mm ID / 22mm OD</br>Absorbent Paper: E-4011-07-3</br> Package: 40 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Reusable Adult Humidification Chamber",
         "partNumber":"G-314003",
         "image": "./assets/img/product/G-314003.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a reusable chamber. It is installed on and heated by respiratory humidifier for vaporizing the water inside itself in order to provide enough humidity to the airway of patient for humidification therapy.<br/>The device is unable to used auto-feeding mode due to no float.  ",
+        "specification": "Material: Polysulfone</br>Suitability: Adult</br>Port Size: 22mm OD/22mm ID</br>Package: 40 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Reusable Adult Humidification Chamber with Scroll",
         "partNumber":"G-314004",
         "image": "./assets/img/product/G-314004.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a reusable chamber. It is installed on and heated by respiratory humidifier for viporaizing the water inside itself in order to privide enough humidity to the airway of patient for humidification therapy.<br/>It equipes with the scroll for absorbent paper. That increases the humidity of breathing gas.<br/>The device is unable to used auto-feeding mode due to no float.",
+        "specification": "Material: Polysulfone/Aluminum<br/>Suitability: Adult<br/>Port Size: 22 mm OD/22 mm ID<br/>Option: E-4011-07-2 Absorbent Paper <br/>Package: 40 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Reusable Heater Wire (Length: 45cm)",
         "partNumber":"900045",
         "image": "./assets/img/product/900045.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a reusable heated wire. It is used for heating humidified breathing gas for decreasing condensation and humidity loss. It prevents the blockage because of excessive condensation in breathing circuit. ",
+        "specification": "Material: Polysulfone/Aluminum</br>Connector Diameter: 22 mm ID/22 mm OD</br>Heated Wire Length: 45 cm</br>Power Inlet: 2-pin-female</br>Power Input: 26V(AD/DC)</br>Package: 10 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Reusable heater wire with temperature port (Length: 110cm)",
         "partNumber":"900110L",
         "image": "./assets/img/product/900110L.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a reusable heated wire. It is used for heating humidified breathing gas for decreasing condensation and humidity loss. It prevents the blockage because of excessive condensation in breathing circuit. ",
+        "specification": "Material: Polysulfone/Aluminum<br/>Connector Diameter: 22 mm ID/22 mm OD<br/>Heated Wire Length: 110 cm<br/>Power Inlet: 2-pin-female<br/>Power Input: 26V(AD/DC)<br/>Package: 10 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Reusable heater wire with temperature port (Length: 130cm)",
         "partNumber":"900130L",
         "image": "./assets/img/product/900130L.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a reusable heated wire. It is used for heating humidified breathing gas for decreasing condensation and humidity loss. It prevents the blockage because of excessive condensation in breathing circuit. ",
+        "specification": "Material: Polysulfone/Aluminum<br/>Connector Diameter: 22 mm ID/22 mm OD<br/>Heated Wire Length: 130 cm<br/>Power Inlet: 2-pin-female<br/>Power Input: 26V(AD/DC)<br/>Package: 10 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Reusable heater wire with temperature port(Length: 150cm)",
         "partNumber":"900150L",
         "image": "./assets/img/product/900150L.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a reusable heated wire. It is used for heating humidified breathing gas for decreasing condensation and humidity loss. It prevents the blockage because of excessive condensation in breathing circuit. ",
+        "specification": "Material: Polysulfone/Silicone<br/>Connector Diameter: 22 mm ID/22 mm OD<br/>Heated Wire Length: 110 cm<br/>Power Inlet: 2-pin-female<br/>Power Input: 26V(AD/DC)<br/> Package: 10 PCS/ BOX<br/>+E20",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Absortbent Paper for Reusable Adult Humidificaion Chamber",
         "partNumber":"E-4011-07-2",
         "image": "./assets/img/product/E-4011-07-2.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is used for the humidification chamber with scroll. It increases the humidfied area in the chamber and the humidity output to breathing gas.  ",
+        "specification": "Material: Paper<br/>Suitability: G-314004 Reusable Adult Humidification Chamber with scroll<br/>Package: 10 PCS/ PACK<br/>",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Absortbent Paper for Reusable Infant Humidificaion Chamber",
         "partNumber":"E-4011-07-3",
         "image": "./assets/img/product/E-4011-07-3.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is used for the humidification chamber with coil. It increases the humidfied area in the chamber and the humidity output to breathing gas.",
+        "specification": "Material: Paper<br/>Suitability: G-314005 Reusable Neonatal Humidification Chamber With Scroll<br/> Package: 100 PCS/ PACK<br/> ",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Single Plug - Power Adapter (Quick Pull-out)",
         "partNumber":"VH30100",
         "image": "./assets/img/product/VH30100.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The power adaptor is used to transfer power from humidifier to breathing circuit heated wire. It is suitable for disposable single heated wire cirucit.",
+        "specification": "Type: Single plug<br/>Suitability: VH-3000 Respiratory Humidifier<br/>Package: 10 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Single Plug - Power Adaptor",
         "partNumber":"VH30100L",
         "image": "./assets/img/product/VH30100L.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The power adaptor is used to transfer power from humidifier to breathing circuit heated wire. It is suitable for reusable sinlge heated wire cirucit.",
+        "specification": "Type: Single plug<br/>Suitability: VH-3000 Respiratory Humidifier<br/>Package: 10 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Expiratory Filter Heater ",
         "partNumber":"VH30101",
         "image": "./assets/img/product/VH30101.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The device provide electric power for the inner wire of the extension tube , in order to reduce condensation.",
+        "specification": "<u>Expiratory Filter Heater Accessories<u/><br/>For VH-330 Power Adaptor<br/>Package: 10 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Double Plug - Power Adapter",
         "partNumber":"VH30200",
         "image": "./assets/img/product/VH30200.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The power adaptor is used to transfer power from humidifier to breathing circuit heated wire. It is suitable for disposable double heated wire cirucit.",
+        "specification": "Type: Double plug<br/>Suitability: VH-3000 Respiratory Humidifier<br/>Package: 10 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Dou Plug- Power Adaptor",
         "partNumber":"VH30200L",
         "image": "./assets/img/product/VH30200L.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The power adaptor is used to transfer power from humidifier to breathing circuit heated wire. It is suitable for reusable double heated wire cirucit.",
+        "specification": "Type: Double plug<br/>Suitability: VH-3000 Respiratory Humidifier<br/>Package: 10 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "3P/2P Adapter",
         "partNumber":"VH30C-1",
         "image": "./assets/img/product/VH30C-1.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is an adapter for 3-pin-female plug to 2-pin-male plug.",
+        "specification": "Type: Electrical Adapter<br/>Suitability: VH30100 Single Plug - Power Adaptor (Quick Pull-out)<br/>VH30200 Double Plug - Power Adaptor<br/>Package: 10 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Draw Wire",
         "partNumber":"VH30T160",
         "image": "./assets/img/product/VH30T160.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The product is a tool for installing heated wire inside breathing circuit.",
+        "specification": "Material: Stainless<br/>Length:160cm<br/>Package: 30 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
@@ -294,7 +294,7 @@
         "partNumber":"VH30T150",
         "image": "./assets/img/product/VH30T150.jpg",
         "feature":"",
-        "specification": "",
+        "specification": "Length:150cm<br/>Measurement Range: 10~70ºＣ± 0.5ºＣ(in 25to45ºＣ Temperature Range)<br/>Package: 10 PCS/ BOX",
         "filterCategory":"filter-rhf"
     },
     {
@@ -302,39 +302,39 @@
         "partNumber":"900110LE",
         "image": "./assets/img/product/900110LE.jpg",
         "feature":"",
-        "specification": "",
+        "specification": "Material: polysulfone/ Silicone<br/>Coinnector Diameter: 22mm ID/ 22mm OD<br/>Heated Wire Leangth: 110/130/150cm",
         "filterCategory":"filter-rhf"
     },
     {
         "name": "Expiratoey Filter Heater",
         "partNumber":"800-21101",
         "image": "./assets/img/product/800-21101.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The Bacterial Filter Heater is designed ti heat the patienr's exhalation system gas as it passes through the main flow bacteria filter on its way to the exhalation system. This helps to minimize the excessive condensation in the expiratory filter and keep the filter working normally. ",
+        "specification": "<u>Basic Specification:<u/><br/>Dimension:<br/> 11.4cm X 10.8cm  11.5cm <br/>Weight: 0.79 Kg<br/><u>Performance Specification:<u/><br/> Heating range: 55~120 Vac<br/>Frequency: 50/60 Hz<br/>Power Supply 20W<br/><u>ExpiratoryFilter heating Accessories:<u/> <br/>800-51600 Disposable Bacteria Filter<br/>800-51500 Reusable Bacteria Filter<br/>Package: 6 PCS/BOX",
         "filterCategory":"filter-exfh"
     },
     {
         "name": "Expiratory Filter Heater ",
         "partNumber":"800-22202",
         "image": "./assets/img/product/800-22202.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The Bacteria Filter Heater is designed to heat the patient's exhalation gas as it passes through the main flow bacteria filter on its way to the exhalation system. This helps to minimize the excessive condensation in the expiratory filter and keep the filter working normally.",
+        "specification": "<u>Basic Specification:<u/><br/>Dimension:<br/>11.4cm X 10.8cm  11.5cm <br/> Weight: 0.79 Kg<br/><u>Performance Specification:<u/><br/> Heating range: 55~70 oC<br/>Warm-up Time: ≦ 30 min <br/><u>Electrical Specification:<u/><br/>Input Voltage: 220 ~ 240 Vac<br/>Frequency: 50/60 Hz<br/>Power Supply 20 W<br/> <u>ExpiratoryFilter heating Accessories: <u/><br/>800-51600 Disposable Bacteria Filter<br/>800-51500 Reusable Bacteria Filter<br/>Package: 6 PCS/BOX  ",
         "filterCategory":"filter-exfh"
     },
     {
         "name": "Expiratory Filter Heater ",
         "partNumber":"800-VH330",
         "image": "./assets/img/product/800-VH330.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The Bacteria Filter Heater is designed to heat the patient's exhalation gas as it passes through the main flow bacteria filter on its way to the exhalation system. This helps to minimize the excessive condensation in the expiratory filter and keep the filter working normally.<br/>The machine equipes with heated wire power output. It can be used with heated wire in the tube between the filter and the expiratory port of ventilator. ",
+        "specification": "<u>Basic Specification:<u/><br/>Dimension:<br/>16cm X 10.5cm  11cm <br/> Weight: 1.0 Kg<br/><u>Performance Specification:<u/><br/>Heating range: 55~70 oC<br/>Warm-up Time: ≦ 30 min <br/><u><u/>Electrical Specification:<br/>Input Voltage: 100 ~ 240 Vac<br/>Frequency: 50/60 Hz<br/>Power Supply 20 W<br/>Heated Wire Power Output: 7.5W<br/><u>ExpiratoryFilter heating Accessories: <u/><br/>800-51600 Disposable Bacteria Filter<br/>800-51500 Reusable Bacteria Filter<br/>VH30101 Power Adaptor<br/>90030 /30cm Reusable Heater Wire<br/>90045/ 45cm Reusable Heater Wire<br/>Package: 6 PCS/BOX   ",
         "filterCategory":"filter-exfh"
     },
     {
         "name": "Expiratory Filter Heater ",
         "partNumber":"800-VH130",
         "image": "./assets/img/product/800-VH130.jpg",
-        "feature":"",
-        "specification": "",
+        "feature":"The child expiratory filter heater is used for minimizing the water condensation inside the expiratory filter, especially the breathing system is used with active humidifier. It can keep the filter dry for reducing gas flow resistance.",
+        "specification": "<u>Basic Specification:<u/><br/>Dimension:<br/>7.7cm / Diameter 9.6cm<br/>eight: 0.40 Kg<br/><u>Performance Specification:<u/><br/>Heating temperature:  70 ± 3 ℃ (cut off: 85 ℃)<br/>Warm-up Time: ≦ 30 min <br/>Tidal volume: 30ml ~ 250ml<br/> <u>Electrical Specification:<u/><br/>Input Voltage: 100 ~ 240 Vac<br/> Frequency: 50/60 Hz<br/>Power Supply 20 W<br/>Heated Wire Power Output: 7.5W<br/><u>ExpiratoryFilter heating Accessories: <u/><br/>800-52600 Reusable Bacteria Filter<br/>Package: 6 PCS/BOX   ",
         "filterCategory":"filter-exfh"
     },
     {
@@ -342,7 +342,7 @@
         "partNumber":"VH30101",
         "image": "./assets/img/product/VH30101.jpg",
         "feature":"",
-        "specification": "",
+        "specification": "For VH-330 Power Adaptor<br/>pakage 10pcd/box",
         "filterCategory":"filter-exfh"
     },
     {
