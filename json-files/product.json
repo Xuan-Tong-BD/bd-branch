@@ -344,5 +344,29 @@
         "feature":"",
         "specification": "",
         "filterCategory":"filter-exfh"
+    },
+    {
+        "name": "Ministry of Health And Welfare, Republic of China (Taiwan)",
+        "partNumber":"",
+        "image": "./assets/img/product/certificate1.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"certificate"
+    },
+    {
+        "name": "Ministry of Health And Welfare, Republic of China (Taiwan)",
+        "partNumber":"",
+        "image": "./assets/img/product/certificate2.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"certificate"
+    },
+    {
+        "name": "Ministry of Health And Welfare, Republic of China (Taiwan)",
+        "partNumber":"",
+        "image": "./assets/img/product/certificate3.jpg",
+        "feature":"",
+        "specification": "",
+        "filterCategory":"certificate"
     }
 ]
